@@ -1,6 +1,6 @@
 Jitsi Maven Repository
 
-Bellow is a basic script that describes the basic workflow of deploying a module
+Below is a basic script that describes the basic workflow of deploying a module
 and updating the Jitsi Maven Repository.
 
 ```sh
